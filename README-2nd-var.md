@@ -58,7 +58,7 @@
 Далее расширяем маску. Поскольку сегментация неточная, нам необходимо добавить в маску выходящие за контур пиксели. Результат расширения маски представлен на картинке:
 
 | ![Frame](https://github.com/temp-rw/Image-Inpainting-DL-project/blob/master/Images/Frame.png) | ![Mask](https://github.com/temp-rw/Image-Inpainting-DL-project/blob/master/Images/Frame-Mask.png) |
-|--|--|
+|:-----------:|:-----:|
 | Изображение | Маска |
 
 
